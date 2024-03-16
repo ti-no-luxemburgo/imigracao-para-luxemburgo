@@ -11,3 +11,5 @@ educacao/: Informações sobre o sistema educacional, incluindo escolas e univer
 saude/: Informações sobre o sistema de saúde, seguros, e onde encontrar hospitais e clínicas.  
 transporte/: Detalhes sobre o transporte público e privado, incluindo como comprar carro ou alugar.   
 lazer/: Informações sobre lazer, pontos turísticos, atividades ao ar livre, a vida noturna e atividades com crianças.
+
+<!-- criar mapa mental : Luiz -->
