@@ -1,0 +1,1 @@
+- equivalencia de diplomas
