@@ -2,6 +2,7 @@
 Repositório para interessados em imigrar para Luxemburgo
 
 Um documento introdutório explicando o propósito do repositório, como navegar nele e como contribuir.
+#
 legal/: Contém todas as informações legais, como vistos, residência, etc.
 cultura/: Informações sobre a cultura de Luxemburgo, incluindo idioma, culinária, e festivais.
 moradia/: Dicas e informações sobre aluguel e compra de propriedades.
