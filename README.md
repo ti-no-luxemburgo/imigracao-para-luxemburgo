@@ -1,4 +1,4 @@
-# imigracao-para-luxemburgo
+# Geral
 Repositório para interessados em imigrar para Luxemburgo
 
 # 
