@@ -13,3 +13,4 @@ transporte/: Detalhes sobre o transporte público e privado, incluindo como comp
 lazer/: Informações sobre lazer, pontos turísticos, atividades ao ar livre, a vida noturna e atividades com crianças.
 
 <!-- criar mapa mental : Luiz -->
+<!-- add https://github.com/all-contributors/all-contributors/blob/master/README.md : Luiz -->
